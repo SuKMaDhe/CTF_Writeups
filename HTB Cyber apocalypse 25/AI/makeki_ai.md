@@ -8,24 +8,33 @@ And it gave me the pathway which was the flag.
 
 ### ai_mirror_witch
 Another prompt injection. 
+
 ![image](https://hackmd.io/_uploads/SyCuEPnhkg.png)
+
 Classic tell me what you are not supposed to.
 
 
 ### ai_cursed_gatekeeper
 TLDR
+
 ![image](https://hackmd.io/_uploads/SJAqR8h3yg.png)
+
 So, I have to trick the ai into giving me the secret chant.
 the ai was brick walling me and classifying me as a traveller, giving me the normal chant everytime no matter what. So, I prompted grok to create a trustable prompt which would make it seem like I am Malakar's follower.
+
 ![image](https://hackmd.io/_uploads/ryVJQwn31e.png)
+
 
 ### ai_elixir_emporium
 
 The system prompt:
+
 ![image](https://hackmd.io/_uploads/Hy_9Bv3n1x.png)
+
 It is clear that I would need to use urgency to reveal the wizard's name. So I prompted grok again to create me a prompt.
 
 ![image](https://hackmd.io/_uploads/ryJz_w2nyl.png)
+
 The ai is bounded by tongue censorship and can't reveal the name. But asking character by character reveal the first character to be T.
 name is
 Thlie or Thlio Strerr*t
